@@ -22,3 +22,9 @@ Acceleration Excel with... PYTHON!
 - scatterChart-check-last_row.ipynb
 - data/Bias_correction_ucl.xlsx
 - link: https://www.youtube.com/watch?v=MRdQryZG8UU
+
+2022-03-20: openpyxl + matplotlib.pyplot로 scatter chart 만들기
+- plt_scatterPlot.ipynb
+- plt_scatterplot_show.ipynb
+- data/Bias_correction_ucl.xlsx
+- link:https://www.youtube.com/watch?v=aa6eXjd0iUA
