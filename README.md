@@ -28,3 +28,9 @@ Acceleration Excel with... PYTHON!
 - plt_scatterplot_show.ipynb
 - data/Bias_correction_ucl.xlsx
 - link:https://www.youtube.com/watch?v=aa6eXjd0iUA
+
+2022-03-27: openpyxl + matplotlib.pyplot로 scatter chart 더 고수처럼 만들기
+- plt_chart_redblue.ipynb
+- plt_chart_continuous_C.ipynb
+- data/Bias_correction_ucl.xlsx
+- link:https://www.youtube.com/watch?v=5r4Ser3euy8
