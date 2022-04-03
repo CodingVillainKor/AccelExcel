@@ -34,3 +34,8 @@ Acceleration Excel with... PYTHON!
 - plt_chart_continuous_C.ipynb
 - data/Bias_correction_ucl.xlsx
 - link:https://www.youtube.com/watch?v=5r4Ser3euy8
+
+2022-04-03: openpyxl + matplotlib.pyplot로 scatter chart 에 histogram까지 얹기
+- histogram_on_pyplot.ipynb
+- data/Bias_correction_ucl.xlsx
+- link:https://www.youtube.com/watch?v=YGdIhYAH5Js
